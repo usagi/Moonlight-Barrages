@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Moonlight Barrages</title>
+<link rel="stylesheet" href="main.css">
+<script src="main.js"></script>
+
+<article id="moonlight_barrages">
+  <dl class="info_container">
+    <dt class="max_score_key">最高得点
+    <dd class="max_score_value">000000000
+    <dt class="score_key">得点
+    <dd class="score_value">000000000
+    <dt class="player_key">Player
+    <dd class="player_value">★★★
+    <dt class="bomb_key">Bomb
+    <dd class="bomb_value">★★★
+    <dt class="time_key">Time[sec]
+    <dd class="time_value">0
+    <dt class="barrage_key">Barrage
+    <dd class="barrage_value">0
+  </dl>
+  <div class="logo"></div>
+  <div class="stage"></div>
+  <h1 class="skill">試符「名前はまだ無い」</h1>
+  <audio
+    class="music_00"
+    preload="auto"
+    autoplay
+    loop
+  >
+    <source src="TAMUSIC/120105_toho_septet_230_keigo_8vn_S_4vndemo2_FX+oke.ogg">
+    <!--source src="TAMUSIC/120105_toho_septet_230_keigo_8vn_S_4vndemo2_FX+oke.mp3"-->
+    AUDIO
+  </audio>
+  <div class="pause"><div>PAUSE</div></div>
+</article>
+
+<header>
+  <h1>How to Play?</h1>
+  <dl>
+    <dt>Move
+    <dd>[W|A|S|D] or [Up|left|Down|Right]
+    <dt>Shoot
+    <dd>[J]
+    <dt>Slow
+    <dd>[K]
+    <dt>Pause
+    <dd>[P]
+    <dt>Hard-Reset
+    <dd>[F5]
+  </dl>
+  <h2>How to Configuration?<h2>
+  <dl>
+    <dt>Access with URL fragment as your custom settings
+    <dd>http://.../#max_objects=512,frames_per_second=60,enable_rotate=true
+    <dt>[max_objects]
+    <dd>maximum number of objects.
+    <dt>[frames_per_second]
+    <dd>target frame ratio(FPS).
+    <dt>enable_rotate
+    <dd>enable to rotate effect, but it's heavy.
+  </dl>
+  <h2>Note</h2>
+  <p>当たり判定未実装・ｗ・。音楽は<a href="http://tamusic.jp/">TAMUSIC</a>さんより、キャラクターはpixivにて<a href="http://www.pixiv.net/member.php?id=204025">ODINA</a>さん、<a href="http://www.pixiv.net/member.php?id=1296656">ayge@ゆかゆか推進委員会</a>さんより使用させて頂きました。また、ゲームデザインはとっても<a href="http://www16.big.or.jp/~zun/">東方Project</a>風味です（パターンとか実装してないけどね・ｗ・；）。フッターのCOPYRIGHTたちも見てね！</p>
+  <p>このデモは某校でうさぎ先生がJavaScript講座でウェブブラウザーでのクライアントサイドJavaScriptを学生に教える為の教材の１つとして制作したものです。その特性からファイル構成がシンプルだったり、外部ライブラリーを使っていなかったり、どうしてWebGLとかNaClとか影も無かったりしますが教材としての仕様デス・ｗ・；</p>
+</header>
+
+<footer>
+  <dl class="wrp">
+    <dt>Repository
+    <dd><a href="https://github.com/usagi/moonlight_barrages">https://github.com/usagi/moonlight_barrages</a>
+    <dt>License
+    <dd>
+      <dl>
+        <dt>Software
+        <dd><a href="http://www.opensource.org/licenses/MIT">MIT/X11</a>
+        <dt>Document
+        <dd><a href="http://creativecommons.org/licenses/by/3.0/deed.ja">CC-BY(3.0)</a>
+      </dl>
+    <dt>Copyright
+    <dd>&copy; 2012 Usagi Ito / Wonder Rabbit Project
+    <dt>Contact
+    <dd><a href="mailto:usagi@WonderRabbitProject.net">usagi@WonderRabbitProject.net</a>
+  </dl>
+  <dl class="TAMUSIC">
+    <dt>Music
+    <dd>Powered by
+    <dt>Source
+    <dd><a href="http://tamusic.jp/?page_id=2550">Works demo</a>
+    <dt>License
+    <dd><a href="http://tamusic.jp/?page_id=1160">Caution!</a>
+    <dt>Copyright
+    <dd>&copy; <a href="http://tamusic.jp/">TAMUSIC</a>
+  </dl>
+  <dl class="ODINIA">
+    <dt>Player-Character-Graphics
+    <dd>Powered by
+    <dt>Source
+    <dd><a href="http://www.pixiv.net/member_illust.php?mode=medium&illust_id=2180519">pixiv</a>
+    <dt>Copyright
+    <dd>&copy; <a href="http://www.pixiv.net/member.php?id=204025">ODINIA</a>
+  </dl>
+  <dl class="ayge@ゆかゆか推進委員会">
+    <dt>Enemy-Character-Graphics
+    <dd>Powered by
+    <dt>Source
+    <dd><a href="http://www.pixiv.net/member_illust.php?mode=medium&illust_id=17466809">pixiv</a>
+    <dt>Copyright
+    <dd>&copy; <a href="http://www.pixiv.net/member.php?id=1296656">age@ゆかゆか推進委員会</a>
+  </dl>
+</footer>

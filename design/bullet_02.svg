@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="新規ドキュメント 38">
+  <defs
+     id="defs4">
+    <color-profile
+       name="sRGB-IEC61966-2.1"
+       xlink:href="/usr/share/color/icc/Argyll/sRGB.icm"
+       id="color-profile3025" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#ffa3a3"
+     borderopacity="0.49803922"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="42.305662"
+     inkscape:cy="35.925571"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     borderlayer="true"
+     width="1920px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1023"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Usagi Ito&lt;usagi@WonderRabbitProject.net&gt;</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Usagi Ito&lt;usagi@WonderRabbitProject.net&gt;</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Usagi Ito&lt;usagi@WonderRabbitProject.net&gt;</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:relation />
+        <dc:language>ja-JP</dc:language>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Usagi Ito&lt;usagi@WonderRabbitProject.net&gt;</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-988.3622)">
+    <path
+       sodipodi:type="star"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#fdff65;stroke-width:6.59999990000000025;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path11686"
+       sodipodi:sides="5"
+       sodipodi:cx="5.0507627"
+       sodipodi:cy="3.3908472"
+       sodipodi:r1="33.396198"
+       sodipodi:r2="19.035833"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.9424778"
+       inkscape:flatsided="false"
+       inkscape:rounded="0.11"
+       inkscape:randomized="0"
+       d="m 5.0507635,-30.005351 c 2.3309756,0 9.3031825,16.625772 11.1889815,17.995885 1.885799,1.370114 19.852379,2.8634317 20.57269,5.0803212 C 37.532746,-4.7122553 23.875227,7.0563537 23.154916,9.2732431 22.434605,11.490133 26.566354,29.038827 24.680555,30.40894 22.794756,31.779053 7.3817382,22.426681 5.0507627,22.426681 c -2.3309756,0 -17.7439947,9.352371 -19.6297937,7.982258 -1.885799,-1.370113 2.245951,-18.918806 1.52564,-21.1356957 -0.720311,-2.2168896 -14.377829,-13.9855002 -13.657518,-16.2023898 0.720311,-2.2168894 18.6868906,-3.7102055 20.5726895,-5.0803185 1.8857989,-1.370113 8.8580074,-17.995886 11.188983,-17.995886 z"
+       transform="matrix(0.87774113,0,0,0.87774113,27.566738,1020.1249)"
+       inkscape:transform-center-y="-2.7389999" />
+  </g>
+</svg>
