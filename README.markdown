@@ -13,6 +13,11 @@ It was created for:
 Demo is here:
   <http://MoonlightBarrages.demo.WonderRabbitProject.net/>
 
+## Source
+
+Source is hare:
+  <https://github.com/usagi/Moonlight-Barrages>
+
 ## Licence
 
 ### for included Music
